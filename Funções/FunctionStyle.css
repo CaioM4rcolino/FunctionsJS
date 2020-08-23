@@ -1,0 +1,125 @@
+.mainbox {
+
+  border: 1px solid black;
+
+  width: 600px;
+
+  height: auto;
+
+  padding-bottom: 10px;
+
+  box-sizing: border-box;
+
+
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 20px;
+
+}
+
+.title{
+
+  font-size: 30px;
+  text-align: center;
+
+
+  font-family: verdana;
+  letter-spacing: 2px;
+
+}
+
+#numberBase, #numero1, #numero2{
+
+  height: 50px;
+
+  width: 500px;
+
+  display: flex;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 30px;
+
+}
+
+#button1, #button2, #button3, #button4{
+
+
+  display: flex;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 20px;
+
+}
+
+#resultado, #resultado2{
+
+  height: 100px;
+
+  width: 100px;
+
+  border: 1px solid black;
+
+  display: flex;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 42px;
+
+  margin-top: 10px;
+
+  box-sizing: border-box;
+
+}
+
+
+
+#nome, #nome2{
+
+  height: 50px;
+
+  width: 500px;
+
+  display: flex;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 30px;
+
+}
+
+#stateBox, #areas {
+
+  height: 50px;
+
+  width: 450px;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  margin-top: 20px;
+
+}
+
+#resultado3, #resultado4 {
+
+  height: 60px;
+
+  width: 350px;
+
+  border: 1px solid black;
+
+
+    margin-top: 10px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+}
